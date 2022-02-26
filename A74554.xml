@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance for sale of four forrests or chases reserved for collateral securitie to the souldiers.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74554</idno>
+            <idno type="STC">Thomason E1064_34</idno>
+            <idno type="STC">ESTC R210344</idno>
+            <idno type="EEBO-CITATION">99869153</idno>
+            <idno type="PROQUEST">99869153</idno>
+            <idno type="VID">169234</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74554)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169234)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1064[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance for sale of four forrests or chases reserved for collateral securitie to the souldiers.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State. aut</author>
+               </titleStmt>
+               <extent>[2], 693-706 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, by William Du-Gard, and Henry Hills, printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf bears an order to print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Appropriations and expenditures --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:169234:1" rendition="simple:additions"/>
+AN ORDINANCE For Sale of Four Forreſts or Chaſes Reſerved for Collateral Securitie to the SOULDIERS.</p>
+            <figure>
+               <figDesc>seal</figDesc>
+            </figure>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <head>Wedneſday 30 Auguſt, <hi>1654.</hi>
+                        </head>
+                        <p>ORdered by His Highneſs the <hi>Lord PROTECTOR</hi> and the Coun<g ref="char:EOLhyphen"/>cil, that this Ordinance bee forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>Hen. Scobel, <hi>Clerk of the Council.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed, by <hi>William Du-Gard,</hi> and <hi>Henry Hills,</hi> Printers to His Highneſs the Lord Protector. 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169234:2"/>
+            <pb n="693" facs="tcp:169234:2"/>
+            <head>AN ORDINANCE For Sale of Four Forreſts or Chaſes reſer<g ref="char:EOLhyphen"/>ved for Collateral ſecurity to the Soul<g ref="char:EOLhyphen"/>diers.</head>
+            <p>
+               <seg rend="decorInit">W</seg>hereas the ſeveral forreſts or Chaſes hereafter particularly mentioned, have been excepted in the late Act of Parlament, made for the Deafforeſtation, Sale and Improvement of the Forreſts, &amp;c. and by the ſaid Act reſerved as Collateral ſecurity to the Officers &amp; Souldiers of the Armie, whoſe Arrears are yet unſatisfied: for the better ſatisfying of all ſuch Arrears due to all Officers and Souldiers which were in ſervice for the Common-Wealth on the twentie fourth day of <hi>December,</hi> One thouſand ſix hundred fourtie ſeven, or which by any Ordinances or Act of Parlament are comprehended within the ſecuritie given to the ſaid Armie, And alſo for the ſatisfy<g ref="char:EOLhyphen"/>ing
+<pb n="694" facs="tcp:169234:3"/>
+of the Arrears of ſuch other perſons as in this preſent Ordinance are hereafter na<g ref="char:EOLhyphen"/>med; And for the Deafforeſtation, Sale and Improvement of the ſaid ſeveral Forreſts or Chaces; And alſo that all perſons who lawfully claim, and of right ought to have or take common of Paſture, Pannage, Tur<g ref="char:EOLhyphen"/>barie, Eſtovers or other profits and advan<g ref="char:EOLhyphen"/>tages, upon or within any of the ſaid For<g ref="char:EOLhyphen"/>reſts or Chaces, or upon or within any other Chaces or Parks heretofore belonging to the late King, Queen or Prince, which have not been conveyed to any perſon or per<g ref="char:EOLhyphen"/>ſons, or for the which the whole purchaſe money paiable for the ſame is not yet ſatis<g ref="char:EOLhyphen"/>fied; Bee it Ordeined by his highneſs the Lord Protector, by and with the advice and conſent of his Council, That the Forreſt of <hi>Need wood,</hi> otherwiſe called <hi>Need-wood-Chaſe,</hi> lying and beeing in the Countie of <hi>Stafford</hi> and <hi>Derby,</hi> or either of them; The Forreſt of <hi>Kingſwood,</hi> otherwiſe called <hi>Kingſwood Chaſe</hi> in the Countie of <hi>Gloceſter;</hi> The Forreſt of <hi>Aſhdowne,</hi> with the Incloſure or Park there, commonly called <hi>Lancaſter</hi> great Park in the Countie of Suffex; And the Forreſt of <hi>Sher<g ref="char:EOLhyphen"/>wood</hi> in the Counties of <hi>Nottingham</hi> and <hi>Der<g ref="char:EOLhyphen"/>by,</hi> or one of them, and all Honors, Manors, Lands, Tenements and Hereditaments, within the ordinarie and uſual precincts, li<g ref="char:EOLhyphen"/>mits and perambulations of the ſaid for<g ref="char:EOLhyphen"/>reſts and Chaces, or any of them (as the ſaid perambulations are limited by an Act of Parlament made in the ſeventeenth year of the late King <hi>Charls,</hi> heretofore belonging to the late King <hi>Charls</hi> deceaſed, in the right
+<pb n="695" facs="tcp:169234:3"/>
+of the Crown, or Dutchy of <hi>Lancaſter</hi> or otherwiſe, and which were in the actual ſer<g ref="char:EOLhyphen"/>zin of him or of any of his Tenants, Agents, Servants, Truſtees, Officers or Miniſters in his right, or for his uſe, on the twenty fift of <hi>March,</hi> One thouſand ſix hundred thirtie five, and all Royalties, Privileges, Franchiſes, Immunities, Rights, Pow<g ref="char:EOLhyphen"/>ers, and Iuriſdictions whatſoever to the premiſſes belonging or appertaining, or here<g ref="char:EOLhyphen"/>tofore lawfully uſed, occupied or injoyed with or in the ſame, as fully and amply, to all intents and purpoſes, as the ſame were ſo uſed, occupied and enjoyed by the ſaid late King, or by any other perſon or perſons lawfully claiming from, by, or under him, ſhall bee, and are hereby veſted in the real and actual poſſeſſion and ſeizin of <hi>Thomas Cook</hi> of <hi>Pedmarſh</hi> in the County of <hi>Eſſex,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>William Bolvire, John Sparrow, William Kenwrick, Ralph Harriſon, William Scott, William, Steele, Sylva<g ref="char:EOLhyphen"/>nus Taylor, Thomas Hubbert,</hi> and <hi>Cornelius Cooke,</hi> Eſquires, the ſurvivors and ſurvivor of them, their heirs and aſſigns, to the uſes and purpoſes mentioned and comprehended in an an Act of Parlament, Intituled, <hi>An Act of the Commons in Parlament aſſembled, for ſale of the Honors, Manors, and Lands hereto fore belong<g ref="char:EOLhyphen"/>ing to the late King, Queen and Prince,</hi> and to ſuch other purpoſes as in this preſent Ordinance is mentioned and ordeind, to have and to hold the premiſſes to them and their heirs and aſſigns, under the truſt in the ſaid Act and this preſent Ordinance declared, as of the Manor of <hi>Eſtgr<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>wich</hi> in free and common ſoccage by fealtie, for all ſervices, as fully
+<pb n="696" facs="tcp:169234:4"/>
+freed and diſcharged from payment of all manner of Tythes or other duties, as the ſaid late King held or ought to have held the ſame, ſaving to all and every perſon or per<g ref="char:EOLhyphen"/>ſons, bodies politick &amp; corporate, their heirs ſucceſſors, executors, and adminiſtrators, other than the late King his heirs and ſur<g ref="char:EOLhyphen"/>ceſſors, and all claiming from, by, or under him, to his uſe; or in truſt for him concerning onely ſuch uſe or Truſtes, all Right, Title, Intereſt, Rights in Law and Equitie, An<g ref="char:EOLhyphen"/>nuities, Commodities, ſees, and other pro<g ref="char:EOLhyphen"/>fits, which they or any of them now have and ought to have enjoyed, or had right or title unto before the twentie fift of <hi>March,</hi> One thouſand ſix hundred fourtie one, other than by virtue or in right of the Cuſtody of any of the ſaid Forreſts or Chaces, or of any office belonging to them or any of them, the exerciſe whereof is now ceaſed, or which by virtue hereof ſhall ceaſ to bee of fur<g ref="char:EOLhyphen"/>ther uſe.</p>
+            <p>And it is Declared and Ordein'd by the Authoritie aforeſaid, That the ſaid Tru<g ref="char:EOLhyphen"/>ſtees, or any four or more of them, Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Roberts,</hi> Knight, and the reſt of the ſur<g ref="char:EOLhyphen"/>viving perſons named and enabled in the a<g ref="char:EOLhyphen"/>foreſaid Act, to contract with any perſon or perſons, bodies politick or corporate, for ſale of the premiſſes, or any part thereof, in and by the ſaid Act expoſed to ſale, or any four or more of them, <hi>Thomas Andrews</hi> Alderinan of <hi>London,</hi> and others the Treaſurers in the ſaid Act named, or any two or more of them, and all other officers in the ſaid Act named and appointed ſhall and are
+<pb n="697" facs="tcp:169234:4"/>
+hereby enjoined and impowred (in all things relating to the ſale of the premiſſes hereby veſted and ſettled on the ſaid Truſtees) to obſerv, perform and execute all ſuch Rules, Inſtructions, Authorities and powers (ſaving what is herein and here<g ref="char:EOLhyphen"/>by limited, reſtraind, added, or altered) as the ſaid Truſtees, or any five, or more of them, the ſaid Contractors, or any five or more of them, the ſaid Treaſurers, or any two, or more of them, or other the Officers in the ſaid Act named, in their reſpective places are appointed, authorized and enjoin<g ref="char:EOLhyphen"/>ed to perform and execute, by virtue of the ſaid Act, or any Clauſ thereof or by virtue of all or any of the additional Acts made to the ſaid Act, or of any other Act or Ordi<g ref="char:EOLhyphen"/>nance of Parlament whereunto the ſaid Act, or additional Acts or any of them do in any wiſe relate or refer; And that the ſaid Truſtees, Contractors, Treaſurers and other Officers in the ſaid Act named, ſhall have ſuch fees and allowances continued to them for the diſcharge of their reſpective Truſts hereby repoſed in them, and in ſuch manner allowed and paid to them and every of them (and ſhall bee in all things relating to their ſaid Truſts ſecured and indempni<g ref="char:EOLhyphen"/>fied) as in and by the ſaid Act is declared and directed, and the Rents, Iſſues, Pro<g ref="char:EOLhyphen"/>fits, and all other ready monies already due, or received, or hereafter to bee due, or received, payable aſwel for any part of the premiſſes hereby expoſed to ſale, as for any part of the premiſſes heretofore appointed to bee ſold by the fore-mentioned Act or additi<g ref="char:EOLhyphen"/>onal
+<pb n="698" facs="tcp:169234:5"/>
+Acts, or any of them (other than the Rents, Iſſues and Profits which ſhall by virtue of any Purchaſe made of any part of the ſaid premiſſes. becom due and payable to the reſpective Purchaſor or Purchaſors thereof, ſhall bee equally and alike appli<g ref="char:EOLhyphen"/>cable from time to time towards the pai<g ref="char:EOLhyphen"/>ment and diſcharge of the juſt and lawful Dues of the reſpective Perſons before men<g ref="char:EOLhyphen"/>tioned, and of all Incident Charges ari<g ref="char:EOLhyphen"/>ſing by reaſon of the Executing of the ſaid Act or additional Acts, or of this Ordi<g ref="char:EOLhyphen"/>nance, or of any of them reſpectively. And bee it further Ordeind by the authoritie a<g ref="char:EOLhyphen"/>foreſaid, That the like Commiſſions and Inſtructions as by an Ordinance Entitu<g ref="char:EOLhyphen"/>led, <hi>An Ordinance appointing Commiſsioners to ſurvey the Foreſts, Honors, Mannors, Lands, Tene<g ref="char:EOLhyphen"/>ments and Hereditaments within the uſual limits and perambulations of the ſame, heretofore belonging to the late King, Queen and Prince,</hi> is Ordeined and directed ſhall Iſſue under the great Seal unto Commiſſioners to bee nominated by his Highneſs for Surveying the Forreſts and Chaces in this Ordinance mentioned, as alſo of ſuch Chaces and Parks as beeing in the before recited Act veſted in the Tru<g ref="char:EOLhyphen"/>ſtees, have not been proceeded upon, ſo as to the ſetting forth of proportions for the reſpec<g ref="char:EOLhyphen"/>tive Intereſts claim'd, or to bee claim'd in all or any of them, and of all Honors, Man<g ref="char:EOLhyphen"/>nors, Lands, Tenements and Heredita<g ref="char:EOLhyphen"/>ments within the ſame, and with other the like Powers, Authorities and Inſtructions in all things in reference to the premiſſes as is directed by the ſaid Ordiance, as alſo
+<pb n="699" facs="tcp:169234:5"/>
+after the full Execution of the ſaid Powers, or ſooner if they ſhall bee required to certifie the Surveys of the reſpective Forreſts, Cha<g ref="char:EOLhyphen"/>ces &amp; Premiſſes, and other their proceedings touching the ſame unto the Truſtees in this Ordinance mention'd, or any four or more of them, for the better execution of this Or<g ref="char:EOLhyphen"/>dinance. And hee it likewiſe Ordeind by the authoritie aforeſaid, That for the better preſervation of all Woods and Under<g ref="char:EOLhyphen"/>woods, and of all ſuch Fences as are or ſhall bee made within any the Forreſts, Chaces or premiſſes aforeſaid, or within any part thereof, The Iuſtices of Peace in each Countie where any part of the premiſſes ſo incloſed ſhall bee or lie, do and are hereby en<g ref="char:EOLhyphen"/>joined to take ſpecial care to put in execution the Statute made in the fourtie third year of <hi>Ehz.</hi> Chap. VII. for puniſhing of ſuch as ſhall break, cut, or ſpoil any Woods, Under<g ref="char:EOLhyphen"/>woods, Hedges, or other Fences, <hi>&amp;c.</hi> and that the ſame be given in charge by the ſaid Iuſti<g ref="char:EOLhyphen"/>ces at their ſeveral Quarter Seſſions of the Peace accordingly. And it is alſo hereby fur<g ref="char:EOLhyphen"/>ther Ordein'd, That the Truſtees before<g ref="char:EOLhyphen"/>named, or any four or more of them, ſhall have, uſe, and exerciſe like powers and au<g ref="char:EOLhyphen"/>thorities in order to the preventing of all Waſts and Spoils which ſhall bee made in or upon any part of the premiſſes comprehen<g ref="char:EOLhyphen"/>ded in this Ordinance, &amp; to the puniſhing of all Perſons making ſuch Waſte or Spoil ac<g ref="char:EOLhyphen"/>cordingly, as alſo to the compelling of all or any the Rents and Profits iſſuing out of, or ariſing upon the premiſſes, or any part there<g ref="char:EOLhyphen"/>of, as any Committee or Commiſſioner for
+<pb n="700" facs="tcp:169234:6"/>
+removing of obſtructions in the ſale of any Lands, Fee farm Rents or Hereditaments whatſoever, might or ought upon the Tenth day of <hi>December</hi> One Thouſand Six Hun<g ref="char:EOLhyphen"/>dred Fiftie three, to have uſed or exerciſed by force and virtue of any Act, Ordinance or Order of Parlament, or otherwiſe; And it is alſo Ordein'd and hereby declared, That no Demeaſne Lands in poſſeſſion or Reverſion, nor other profits and advanta<g ref="char:EOLhyphen"/>ges which have formerly been granted by Leaf, or by Letters Patents, for Term of Lives or Years, under a Rent reſerved thereon, ſhall paſs or bee conſtrued to paſs to any Perſon or Perſons whatſoever claim<g ref="char:EOLhyphen"/>ing the ſame, or any part thereof, by virtue of any general words comprehended in any Grant or Grants from the late King, Queen or Prince or from the Truſtees, or any four, five, or more of them, named in the Act for ſale of the Honors, Mannors and Lands aforeſaid, unleſs the premiſſes ſo claimed be particularly mentioned in the ſaid Grant or Grants, and valued in the particular upon which the ſaid Grant or Grants have been grounded reſpectively, but that all Sales heretofore made, or hereafter to bee made (in behalf of the Common-wealth) to any perſon or perſons, ſhall ſtand good, and the premiſſes ſo ſold (and paid for accordingly) ſhall bee held and enjoied againſt all ſuch Claims by virtue of any Words of Courſ or general Words whatſoever; And that the ſaid Truſtees may the better bee enabled to defray the charge of ſurveying, and other incident charges ariſing upon and
+<pb n="701" facs="tcp:169234:6"/>
+about the ſale of the premiſſes: Bee it Ordeined, and it is hereby Ordeined, That one third part in value (by eſtimation of the Surveyors) of ſo much of the Chace, commonly called <hi>Enfield</hi> Chace in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Middleſex</hi> (as after allowances made to the ſeveral perſons claiming intereſt there<g ref="char:EOLhyphen"/>in, ought to bee ſet forth for ſale and diſpo<g ref="char:EOLhyphen"/>ſal according to this preſent Ordinance) ſhall bee ſold by the Contractors aforeſaid, or any four or more of them, to any perſon or per<g ref="char:EOLhyphen"/>ſons whatſoever, who will purchaſe the ſame with readie money, and no otherwiſe, at ſuch rates (not abating of Ten years Purchaſe for the Lands, nor of the groſs value, as they ſhall be reſpectively returned) as ſhall bee agreed upon by them the ſaid Contractors and Purchaſors reſpectively; which ready money ſhall bee paid unto the Treaſurers, as all other ready money pay<g ref="char:EOLhyphen"/>able upon Contracts, is by the firſt mention<g ref="char:EOLhyphen"/>ed Act appointed: And the ſaid Treaſurers ſhall from time to time iſſue out the ſaid rea<g ref="char:EOLhyphen"/>dy money by Warrant from the ſaid Tru<g ref="char:EOLhyphen"/>ſtees, or any four or more of them; which Warrants (as alſo ſuch uſual Conveyances or Deeds, as (upon the payment of ſuch moneys) any Purchaſor or Purchaſors, of any part or parcel of the ſaid clear third part of the ſaid Chace ſhall deſire;) The ſaid Truſtees, or any four or more of them, are hereby enabled, authorized and required to make, grant, and give accordingly: And it is further Ordeined by the authority a<g ref="char:EOLhyphen"/>foreſaid, That ſuch ſumme and ſummes of money as are owing and in arrear to Col.
+<pb n="702" facs="tcp:169234:7"/>
+               <hi>Edward Montagu,</hi> as Colonel of a Regiment of foot, and Captain of a Company of Foot, lately under the command of <hi>Edward</hi> Earl of <hi>Mancheſter,</hi> and <hi>Thomas</hi> Lord <hi>Fairfax,</hi> according to two ſeveral Accompts ſtated and ſign<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d; the one of the Committee of Accompts ſit<g ref="char:EOLhyphen"/>ting at <hi>Worceſter-houſ</hi> and dated the twentieth of <hi>October,</hi> One thouſand ſix hundred fourtie nine; and the other by <hi>John Blackwell,</hi> 
+               <abbr>Eſq</abbr> one of the Treaſurors at Wars, bearing date the twentie ſecond of <hi>February,</hi> One thouſand ſix hundred fiftie three; And alſo all ſuch ſumme and ſummes of money as are owing and in arrear upon the Accompt of Col. <hi>John Pickering</hi> deceaſed, at the time of his death, for his perſonal ſervice, as Co<g ref="char:EOLhyphen"/>lonel of a Regiment of foot, and Captain of a Company of Foot, according to three Deventures, one bearing date the twentie ſixth of <hi>September,</hi> One thouſand ſix hundred fourtie nine, ſtated and ſigned by the ſaid Committee of Accompts ſitting at <hi>Worceſter<g ref="char:EOLhyphen"/>houſ;</hi> and one other ſtated and ſigned by <hi>Wil<g ref="char:EOLhyphen"/>liam Stane,</hi> 
+               <abbr>Eſq</abbr> Commiſſary General of the Muſters, and by two of the Commiſſioners of the Eaſtern Aſſociation, beeing for his ſervice under the ſaid Earl of <hi>Mancheſter,</hi> to the ſecond of <hi>April,</hi> One thouſand ſix hun<g ref="char:EOLhyphen"/>dred fourty five; And one other ſtated and ſign'd by the ſaid <hi>John Blackwell,</hi> Eſquire, for his pay to the twentie ſecond of <hi>December,</hi> One thouſand ſix hundred fourtie five; and alſo the ſumme of ſeven hundred and eleven pounds, due to <hi>Edw. Dendy,</hi> 
+               <abbr>Eſq</abbr> for the ar<g ref="char:EOLhyphen"/>rears for his perſonal ſervice in the Armie, the ſumme of two thouſand eight hundred
+<pb n="703" facs="tcp:169234:7"/>
+ſeventy four pounds and nine ſhillings; to Col. <hi>Richard Forreſcue,</hi> for his arrears of pay, as an officer in ſeveral Capacities in the Ar<g ref="char:EOLhyphen"/>mie, before the thirtieth day of <hi>April,</hi> One thouſand ſix hundred fourtie eight, accord<g ref="char:EOLhyphen"/>ing to an accompt thereof, ſtated and certi<g ref="char:EOLhyphen"/>fied by the Commiſſioners for the Countie of <hi>Cornwall,</hi> according to an Ordinance of Par<g ref="char:EOLhyphen"/>lament of the twentie fourth of <hi>December,</hi> One thouſand ſix hundred fourtie ſeven: The arrears due to Major <hi>Anthony Markham,</hi> for his ſervices under Colonel <hi>Diſney,</hi> and Colonel <hi>Edw. Roſsker;</hi> The arrears of pay due to Mr <hi>Thomas Smalwood,</hi> as Chaplain to the Regiment of the Lord <hi>Fairfax,</hi> then Six <hi>Thomas Fairfax,</hi> Knight, under the Command of <hi>Ferdinando</hi> Lord <hi>Fairfax;</hi> and to a Regi<g ref="char:EOLhyphen"/>ment under Colonel <hi>Chriſtopher Copley,</hi> and alſo to the Regiment of Maj. General <hi>John Lambert;</hi> And likewiſe four hundred ſeventie four pounds twelv ſhillings and a penny, for the arrears of pay due to Major <hi>William Boteler,</hi> as Captain of a Troop of horſ in Col. <hi>Lydcot's</hi> Regiment, unto the twentie ſixth of <hi>March,</hi> One thouſand ſix hundred fourtie five, as appeareth by the Account thereof ſtated and allowed; The arrear due to Liebt. Col. <hi>Benjamin Norton,</hi> Captain <hi>Wil<g ref="char:EOLhyphen"/>liam Harriſon,</hi> Captain <hi>Thomas Talbot,</hi> and to Maj. <hi>Francis Bradbury,</hi> now due to his Relict, as the ſame are ſtated, ſhall from hence forth ſtand and bee charged upon the forreſts, Chaſes, Honors, Manors, Lands, Tene<g ref="char:EOLhyphen"/>ments, and Hereditaments, with their pri<g ref="char:EOLhyphen"/>vileges, Royalties, and appurtenantes, by this preſent Ordinance veſted in the Tru<g ref="char:EOLhyphen"/>ſtees
+<pb n="704" facs="tcp:169234:8"/>
+therein named; And the ſaid Tru<g ref="char:EOLhyphen"/>ſtees are hereby authorized, enjoyned, and required to give the like ſecuritie by Bonds or therwiſe, for the ſaid Arrears, as they might or ought to have given to any other perſon or perſons, for any their Arrears ſta<g ref="char:EOLhyphen"/>ted by virtue of a late Act for the preſent ex<g ref="char:EOLhyphen"/>amining &amp; ſtating the Accompts of the Of<g ref="char:EOLhyphen"/>ficers and Souldiers now in the Parla<g ref="char:EOLhyphen"/>ment's ſervice within this Nation; And the ſaid Truſtees, and the Contractors, Trea<g ref="char:EOLhyphen"/>ſurers, and all other Officers and Miniſters whom it doth or may concern, are hereby authorized and required to allow, accept, and paſs the ſaid Arrears ſecured by Bond, or otherwiſe as aforeſaid, ſo ſtated and cer<g ref="char:EOLhyphen"/>tified as aforeſaid, or any part of them, in payment for or upon the purchaſe or purcha<g ref="char:EOLhyphen"/>ſes of any the premiſſes veſted as aforeſaid, as fully to all intents and purpoſes as they might or ought to accept, allow and paſs any the Arrears ſtated and certified by vir<g ref="char:EOLhyphen"/>tue of the Act of Parlament laſt before men<g ref="char:EOLhyphen"/>tioned, any former Act, Order, or Ordi<g ref="char:EOLhyphen"/>nance to the contrarie of any matter or thing herein conteined notwithſtanding; And for the better quieting of Purchaſors, their heirs or aſſigns in their reſpective poſſeſſi<g ref="char:EOLhyphen"/>ons; It is hereby further Ordeined and Declared, That all Honors; Manors, Lands, Tenements or Hereditaments, re<g ref="char:EOLhyphen"/>puted to bee or lye within the bounds, li<g ref="char:EOLhyphen"/>mits, precints, or perambulations of any of the Forreſts, late belonging to the late King, Queen, or Prince, which have (before the the paſſing of this Ordinance) been con<g ref="char:EOLhyphen"/>veyed
+<pb n="705" facs="tcp:169234:8"/>
+by the Truſtees, or any five, or more of them, in the firſt recited Act mention'd, or for which upon any Contract made with the Contractors in the ſame Act named (or any five or more of them) the firſt moiety or whole of the purchaſe monie hath been paid and ſatisfied upon paiment of the Remainder, ſhall bee and are hereby confirmed and made good to the ſeveral Purchaſors of all or any ſuch Honors, Ma<g ref="char:EOLhyphen"/>nors, Lands, Tenements or Hereditaments whatſoever, according to their reſpective Contract; And every ſuch Purchaſor or Purchaſors, his or their heirs or Aſſigns reſpectively, ſhall accordingly have, hold and enjoy the reſpective Lands and premiſſes ſo purchaſed, by him or them, againſt the Com<g ref="char:EOLhyphen"/>mon-Wealth, and all other perſons what<g ref="char:EOLhyphen"/>ſoever claiming by, from, or under the ſame; And that all Fee-farm Rents, or other drie Rents, formerly belonging to the late King, Queen or Prince, which have been already conveyed to any Purchaſor or Purchaſors, as parcel of the Quit-Rents, Chief-Rents, or Rents of Aſſize belonging to any Honors, Manors or Lordſhips, by any five or more of the Truſtees, in the firſt recited Act na<g ref="char:EOLhyphen"/>med, and which have not before the Tenth day of <hi>March</hi> laſt been ſold and fully paid for, by any perſon or perſons pretending to pur<g ref="char:EOLhyphen"/>chaſe the ſame of the Truſtees appointed for Sale of all Fee-farm Rents, Drie Rents, &amp;c. ſhall, according to their reſpecive Contracts, ſtand good, and are hereby con<g ref="char:EOLhyphen"/>firmed to the ſeveral and reſpective Purcha<g ref="char:EOLhyphen"/>ſors, their Heirs and Aſſigns, unto whom ſuch Rents are already conveyed according<g ref="char:EOLhyphen"/>ly,
+<pb n="706" facs="tcp:169234:9"/>
+any Clauſ in this Ordinance, or any for<g ref="char:EOLhyphen"/>mer Act or Acts of Parliament to the con<g ref="char:EOLhyphen"/>trary here of notWithſtanding; And bee it further Ordeind by the authoritie aforeſaid, That all Right, Title or Intereſt, which any Perſon or Perſons Whatſoever, doth, or ſhall pretend to have in any of the honors, Manors, Lands, Tenements and heredita<g ref="char:EOLhyphen"/>ments (expoſed to ſale by the firſt recited Act) or any part or parcel thereof, which Right, Title or Intereſt hath been doubt<g ref="char:EOLhyphen"/>fully certified upon the Survey or Surveys of the reſpective premiſſes, and not cleared and allowed within fourtie daies after the return of ſuch Survey or Surveys, or other<g ref="char:EOLhyphen"/>wiſe as by the ſaid Act is required, all, and every ſuch Right, Title and Inttreſt, which hath not been, or ſhall not bee cleared and allowed as aforeſaid, as to the premiſſes, already ſurveyed within four Months from the paſſing of this Ordinance, and as to ſo much of the premiſſes as are yet unſurvey<g ref="char:EOLhyphen"/>ed, within ſix months from the reſpective re<g ref="char:EOLhyphen"/>turns of the Surveys thereof, together with the Right, Title and Intereſt of every ſuch perſon or perſons, who have not made his or their Claims according to the Directi<g ref="char:EOLhyphen"/>on of the ſaid Act, ſhall ceaſ, determine and bee utterly bold, and all and every ſuch per<g ref="char:EOLhyphen"/>ſon or perſons, their, and every of their heirs and Aſſigns, ſhall bee for ever excluded and debarred from making or renewing any Claim, to any ſuch part of the premiſſes re<g ref="char:EOLhyphen"/>ſpectively.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <head>Wedneſday 30 Auguſt, <hi>1654.</hi>
+            </head>
+            <p>ORdered by His Highneſs the Lord PROTECTOR, and the Council, that this Or<g ref="char:EOLhyphen"/>dinance bee forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Hen. Scobell,</hi> Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
